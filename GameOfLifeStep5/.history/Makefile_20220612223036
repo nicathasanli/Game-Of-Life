@@ -1,0 +1,2 @@
+all:
+	gcc main.c sdlversion/sdlversion.c game/cell.c game/gameplace.c console/console.c clipped/clipped.c circular/circular.c -o main `sdl2-config --cflags --libs` -lSDL2

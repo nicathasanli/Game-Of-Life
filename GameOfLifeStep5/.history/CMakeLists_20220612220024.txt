@@ -7,7 +7,7 @@ add_subdirectory(game)
 add_subdirectory(console)
 add_subdirectory(clipped)
 add_subdirectory(circular)
-add_subdirectory(sdlversion)
+add_subdirectory(sdl2)
 
 find_package(Doxygen)
 
