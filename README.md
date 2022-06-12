@@ -13,7 +13,7 @@ The universe of the Game of Life is an infinite, two-dimensional orthogonal grid
   <p>All other live cells die in the next generation. Similarly, all other dead cells stay dead.</p>
 <p>The initial pattern constitutes the seed of the system. The first generation is created by applying the above rules simultaneously to every cell in the seed, live or dead; births and deaths occur simultaneously, and the discrete moment at which this happens is sometimes called a tick.[nb 1] Each generation is a pure function of the preceding one. The rules continue to be applied repeatedly to create further generations.</p>
   <h2>Manual of Program</h2>
-  <p>git clone https://github.com/raminafandi/Game_of_Life_DT.git
+  <p>git clone https://github.com/nicathasanli/Game-Of-Life.git
   <p>cd GameofLifeStep5</p>
   <p>mkdir build</p>
   <p>cd build</p>
