@@ -1,0 +1,9 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "files.associations": {
+        "gameplace.h": "c",
+        "sdl2.h": "c",
+        "sdlversion.h": "c",
+        "cell.h": "c"
+    }
+}

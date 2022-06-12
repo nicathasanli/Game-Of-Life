@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include "game/gameplace.h"
 #include "console/console.h"
-#include "sdlversion/sdlversion.h"
+#include "sdl2l/sdl2.h"
 
 int main(int argc, char const *argv[])
 {

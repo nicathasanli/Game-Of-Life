@@ -4,8 +4,8 @@
 #include<stdlib.h>
 #include<time.h>
 #include<unistd.h>
-#include "../game/cell.h"
-#include "../game/gameplace.h"
+#include "/GameOfLifeStep5/game/cell.h"
+#include "game/gameplace.h"
 
 void printInConsole();
 

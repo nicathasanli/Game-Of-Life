@@ -5,7 +5,7 @@
 #include<time.h>
 #include<unistd.h>
 #include "../game/cell.h"
-#include "../game/gameplace.h"
+#include "game/gameplace.h"
 
 void printInConsole();
 

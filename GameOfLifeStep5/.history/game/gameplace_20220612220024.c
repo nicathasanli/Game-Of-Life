@@ -1,6 +1,6 @@
 #include "gameplace.h"
-#include "../clipped/clipped.h"
-#include "../circular/circular.h"
+#include "clipped.h"
+#include "circular.h"
 
 Gameplace newgameplace(int rows, int cols)
 {

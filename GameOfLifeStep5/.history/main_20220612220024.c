@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include "game/gameplace.h"
-#include "console/console.h"
-#include "sdlversion/sdlversion.h"
+#include "gameplace.h"
+#include "console.h"
+#include "sdl2.h"
 
 int main(int argc, char const *argv[])
 {
